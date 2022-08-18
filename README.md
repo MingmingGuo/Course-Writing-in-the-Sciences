@@ -4,7 +4,7 @@
 
 Taught by Dr. `Kristin Sainani`
 
-Notes idt by `Mingming Guo` (www.guomm.top)
+Notes eidt by `Mingming Guo` (www.guomm.top)
 
 [**Verified Certificate**](https://www.coursera.org/account/accomplishments/verify/CHVQDWDTYWHS)
 
