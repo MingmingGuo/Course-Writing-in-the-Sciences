@@ -2,7 +2,7 @@
 
 Taught by Dr. `Kristin Sainani`
 
-Notes idt by `Mingming Guo` (www.guomm.top)
+Notes eidt by `Mingming Guo` (www.guomm.top)
 
 ### Table of contents
 * [Recommened order for writing an original manuscript](#Recommended-order-for-writing-an-original-manuscript)
