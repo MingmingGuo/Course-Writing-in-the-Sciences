@@ -201,4 +201,4 @@ Notes idt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [****](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2003%20-%20Sentence%20and%20Paragraph)@2021
