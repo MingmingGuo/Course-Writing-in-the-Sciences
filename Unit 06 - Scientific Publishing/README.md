@@ -401,5 +401,5 @@ _"The lesson of optogenetics is that the old, the fragile, and the rare——eve
 
 <br><br>
 <br><br>
-This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2006%20-%20Scientific%20Publishing)@2021
 
