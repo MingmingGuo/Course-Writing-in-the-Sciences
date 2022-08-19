@@ -463,5 +463,5 @@ Notes eidt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021
+This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2008%20-%20Communication%20with%20broader%20audiences)@2021
 
