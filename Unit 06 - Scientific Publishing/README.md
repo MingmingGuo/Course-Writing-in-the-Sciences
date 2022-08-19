@@ -1,5 +1,9 @@
 ## Unit 6 - Scientific Publishing
 
+Taught by Dr. `Kristin Sainani`
+
+Notes idt by `Mingming Guo` (www.guomm.top)
+
 ### Table of contents
 * [1. Plagiarism](#1-Plagiarism)
 * [2. Authorship](#2-Authorship)
@@ -397,5 +401,5 @@ _"The lesson of optogenetics is that the old, the fragile, and the rare——eve
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
 
