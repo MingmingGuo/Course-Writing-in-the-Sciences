@@ -1,5 +1,9 @@
 ## Unit 3 - Sentence and Paragraph
 
+Taught by Dr. `Kristin Sainani`
+
+Notes idt by `Mingming Guo` (www.guomm.top)
+
 ### Table of contents
 * [I. Sentence](#I-Sentence)
 	* [1. Punctuation](#1-Punctuation) 
@@ -197,4 +201,4 @@
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
