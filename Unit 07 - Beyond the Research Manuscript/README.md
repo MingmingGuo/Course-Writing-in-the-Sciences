@@ -571,5 +571,5 @@ Notes idt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2007%20-%20Beyond%20the%20Research%20Manuscript)@2021
 
