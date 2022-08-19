@@ -1,5 +1,9 @@
 ## Unit 8 - Communication with broader audiences
 
+Taught by Dr. `Kristin Sainani`
+
+Notes eidt by `Mingming Guo` (www.guomm.top)
+
 ### Table of contents
 * [1. Talking with the media](#1-Talking-with-the-media)
 * [2. Panel Interview](#2-Panel-Interview)
@@ -459,5 +463,5 @@
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021
 
