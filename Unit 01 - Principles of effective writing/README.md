@@ -115,5 +115,5 @@ Notes idt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-_This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2001%20-%20Principles%20of%20effective%20writing)@2021_
+_This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2001%20-%20Principles%20of%20effective%20writing)@2021
 
