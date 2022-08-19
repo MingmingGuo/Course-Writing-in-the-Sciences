@@ -149,5 +149,5 @@ Notes idt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-_This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2002%20-%20Verbs)@2021_
+This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2002%20-%20Verbs)@2021_
 
