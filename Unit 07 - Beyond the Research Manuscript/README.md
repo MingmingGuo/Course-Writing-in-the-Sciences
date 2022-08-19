@@ -1,5 +1,9 @@
 ## Unit 7- Beyond the Research Manuscript
 
+Taught by Dr. `Kristin Sainani`
+
+Notes idt by `Mingming Guo` (www.guomm.top)
+
 ### Table of contents
 * [1. Writing a Review Article](#1-Writing-a-Review-Article)
 * [2. Writing for Grants part I - Tips for Writing Proposals](#2-Writing-for-Grants-part-I---Tips-for-Writing-Proposals)
@@ -567,5 +571,5 @@
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
 
