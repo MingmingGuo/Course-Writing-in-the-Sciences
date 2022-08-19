@@ -236,6 +236,6 @@ Notes idt by `Mingming Guo` (www.guomm.top)
 
 <br><br>
 <br><br>
-This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/MingmingGuo/Course-Writing-in-the-Sciences/tree/main/Unit%2004%20-%20The%20Writing%20Process)@2021_
 
 
