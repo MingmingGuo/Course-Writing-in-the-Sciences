@@ -1,5 +1,9 @@
 ## Unit 5 - The Original Manuscript
 
+Taught by Dr. `Kristin Sainani`
+
+Notes idt by `Mingming Guo` (www.guomm.top)
+
 ### Table of contents
 * [Recommened order for writing an original manuscript](#Recommended-order-for-writing-an-original-manuscript)
 * [1. Tables and Figures](#1-Tables-and-Figures) 
@@ -549,5 +553,5 @@
 
 <br><br>
 <br><br>
-_This note was created by [**quanghuy0497**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021_
+This note was created by [**Mingming Guo**](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford)@2021
 
